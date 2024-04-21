@@ -4,7 +4,6 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 from prophet import Prophet
-from matplotlib import matplot
 
 # Load CSV file and process data
 def load_data(file_paths):
@@ -59,8 +58,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
