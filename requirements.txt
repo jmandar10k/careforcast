@@ -1,1 +1,3 @@
 matplotlib
+pystan==3.0.0
+fbprophet
